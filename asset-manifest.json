@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Proyecto---Cotizador-de-seguros/static/css/main.d688a4cb.css",
+    "main.js": "/Proyecto---Cotizador-de-seguros/static/js/main.5236a850.js",
+    "static/js/787.c8656106.chunk.js": "/Proyecto---Cotizador-de-seguros/static/js/787.c8656106.chunk.js",
+    "index.html": "/Proyecto---Cotizador-de-seguros/index.html",
+    "main.d688a4cb.css.map": "/Proyecto---Cotizador-de-seguros/static/css/main.d688a4cb.css.map",
+    "main.5236a850.js.map": "/Proyecto---Cotizador-de-seguros/static/js/main.5236a850.js.map",
+    "787.c8656106.chunk.js.map": "/Proyecto---Cotizador-de-seguros/static/js/787.c8656106.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d688a4cb.css",
+    "static/js/main.5236a850.js"
+  ]
+}
